@@ -41,7 +41,7 @@
 <h3 align="center">My Projects:</h3>
 
 <p align="center">
-  <a href="https://github.com/nisarg924/flutter_projects"><img src="https://img.shields.io/badge/-Campus%20Vehicular%20Traffic%20Security%20Software-000?style=for-the-badge" alt="Phone auth" /></a>
+  <a href="https://github.com/nisarg924/flutter_projects"><img src="https://img.shields.io/badge/-Phone%20Authentication%20Using%20OTP-000?style=for-the-badge" alt="Phone auth" /></a>
   <a href="https://github.com/nisarg924/Library-Management-System"><img src="https://img.shields.io/badge/-Library%20Management%20System-000?style=for-the-badge" alt="Library Management System" /></a>
   <a href="https://github.com/nisarg924/Zoom-Clone"><img src="https://img.shields.io/badge/-Zoom%20Clone-000?style=for-the-badge" alt="Zoom Clone" /></a>
   <a href="https://github.com/nisarg924/Cyberwalla"><img src="https://img.shields.io/badge/-Cyberwalla-000?style=for-the-badge" alt="Cyberwalla" /></a>
